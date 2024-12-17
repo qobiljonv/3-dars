@@ -1,0 +1,15 @@
+:root {
+  --body-fs: 1.6rem;
+  --body-lh: 1.5rem;
+  --main-ff: "Popins", sans-serif;
+  /* COLOR */
+  --color-dark-blue: #232536;
+  --color-light-peach: #ffd3af;
+  --color-black: #000000;
+  --color-light-blue: #444cfc;
+  --color-medium-blue: #666dff;
+  --color-orange: #ffa155;
+  --color-black-20: rgba(0, 0, 0, 0.2);
+  --color-light-yellow: #ffdfc6;
+  --color-wight: #ffffff;
+}
